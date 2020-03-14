@@ -1,0 +1,22 @@
+mazo  	cantidad	número	título	descripción
+mazo 1	4	1A	PERSONAJE HACE	Un personaje cualquiera realiza una acción que modifica la situación o cambia lugar o tiempo.
+mazo 1	4	1B	ENTONCES	Un personaje cualquiera realiza una acción que continúa el sentido en que se desarrolla la historia.
+mazo 1	4	1C	PERO	Un personaje o situación cualquiera rompe, interrumpe o cambia el sentido en que se desarrolla la historia.
+mazo 2	2	2A	SENSACIÓN	Algo que percibimos a nuestro alrededor con alguno/s de los cinco sentidos.
+mazo 2	2	2B	PENSAMIENTO	Lo que pasa por la cabeza de un personaje, con su punto de vista, emociones o contradicciones.
+mazo 2	2	2C	DETALLE	Una característica del ambiente o acción nos transmite el ambiente o sentimiento. Detenerse en lo único, usar metáfora o comparación.
+mazo 2	2	2D	SENTIMIENTO	El sentimiento de un personaje, expresado como sensación en el cuerpo, metáfora o comparación.
+mazo 2	2	2E	CONTEXTO	Sugerimos en qué lugar y momento sucede la acción, sin necesidad de decirlo explícitamente.
+mazo 2	2	2F	CARACTERÍSTICA DE PERSONAJE	Una característica física, psicológica o social que es propia del personaje. Detenerse en lo único, usar metáfora o comparación.
+mazo 3	1	3A	PORQUE ANTES	Algo que no sabíamos de un personaje o acción, que explica o nos hace cambiar lo que opinábamos o esperábamos.
+mazo 3	1	3B	MIENTRAS TANTO	Un Personaje Hace, al mismo tiempo, en otro lugar.
+mazo 3	1	3C	RETOMAMOS DETALLE/REPETIMOS ELEMENTO	Alguna información, objeto, sentimiento, símbolo que apareció antes, reaparece y nos muestra la continuidad o diferencias.
+mazo 3	1	3D	UN PERSONAJE QUIERE OTRA COSA	Uno de los personajes intenta hacer algo opuesto al deseo de otro.
+mazo 3	1	3E	DIÁLOGO	Dos personajes hablan (o callan), cada uno quiere llevar la conversación a un resultado o tema diferente.
+mazo 3	1	3F	PERSONAJE CAMBIA	Un personaje hace algo contrario a lo que esperábamos.
+mazo 4	1	4A	PARODIA O CITA	Reproducimos una manera de hablar, un género o una escena de una historia conocida.
+mazo 4	1	4B	SÍNTESIS	Una frase de 3 a 5 palabras.
+mazo 4	1	4C	AMONTONAMIENTO	Una frase larga, que describe mucho, enumera acciones, sensaciones, objetos u otros elementos de manera acelerada.
+mazo 4	1	4D	REFLEXIÓN	Una frase filosófica, poética, una conclusión de la vida, un descubrimiento.
+mazo 4	1	4E	SORPRESA	Un personaje, elemento o acción que no tenga nada que ver con lo que viene pasando.
+mazo 4	1	4F	LO INCOMPRENSIBLE	No todo tiene que ser claro. Puede haber misterio. Algo inasible, un secreto que no se revela, una frase inaccesible.
